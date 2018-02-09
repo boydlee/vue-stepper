@@ -1,4 +1,4 @@
-export default {
+module.exports = {
     en: {
         next: 'Next',
         back: 'Back',
@@ -14,4 +14,4 @@ export default {
         back: 'Voltar',
         finish: 'Finalizar'
     }
-}
+};
